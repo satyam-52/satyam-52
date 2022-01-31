@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C5616AQFLH-R_GORi6A/profile-displaybackgroundimage-shrink_350_1400/0/1620298363793?e=1629331200&v=beta&t=SPnAnXzA87a_-7zaxr4GhRe9QVE89SZaO0L8sMYFI2w" alt="cover" />
+<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C5616AQFLH-R_GORi6A/profile-displaybackgroundimage-shrink_350_1400/0/1620298363793?e=1649289600&v=beta&t=dIjrw9H3pcSATNEEWFGjLWXoaPAw74gTdMxJ0Ia-LNY" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on Exciting Projects 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source, Web Development 
+- 💬 Talk to me about <strong>Blockchain</strong>, JavaScript, Freelancing Opportunites, Open Source, Web Development 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/satyam-52?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
